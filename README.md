@@ -9,7 +9,6 @@ To implement Opening and Closing using Python and OpenCV.
 ### Step1:
 <br>
 
-
 ### Step2:
 <br>
 
